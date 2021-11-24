@@ -18,8 +18,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Será porssivel ter acesso a aplicação apenas com esse usuário e senha
 
-* Email : admin@nextShipping.com.br
-* Senha: 123456
+* Email: dog
+* Senha: dog
  
 ## :computer: Intalação do projeto
 
